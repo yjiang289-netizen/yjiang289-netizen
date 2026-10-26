@@ -26,3 +26,6 @@ Process Engineer | Semiconductor Process Engineer | Materials Engineer | R&D Eng
 ## 📄 Resume
 
 [View My Resume (PDF)](https://github.com/yjiang289-netizen/Celina-Jiang/blob/main/Celina_Jiang_Resume.pdf)
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/celina-yue-jiang-914227250/?isSelfProfile=true)
